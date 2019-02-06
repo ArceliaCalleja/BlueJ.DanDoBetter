@@ -1,6 +1,5 @@
 #BlueJ class context
 comment0.target=StringUtilities
-comment0.text=\n\ Created\ by\ dan\ on\ 6/14/17.\n
 comment1.params=
 comment1.target=java.lang.String\ getHelloWorld()
 comment1.text=\n\ @return\ `Hello\ World`\ as\ a\ string\n
